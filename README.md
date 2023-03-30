@@ -11,3 +11,5 @@ So adding an absurd number of enemies will cause the game to run in "slow motion
 ![argazim 3](https://user-images.githubusercontent.com/116350669/228803787-dc364cfa-c595-4cd9-99cf-c1e09527c860.png)
 ![agrazim 1](https://user-images.githubusercontent.com/116350669/228803792-cf068869-8f4a-44d3-b4da-e23f3d4ba265.png)
 ![argazim 2](https://user-images.githubusercontent.com/116350669/228803794-4ebfcf08-2d9d-457d-a343-d065a32a08fa.png)
+![agrazim 4](https://user-images.githubusercontent.com/116350669/228804417-2d22b626-18a7-480c-bc4b-b98f75189f7d.png)
+![argazim 5](https://user-images.githubusercontent.com/116350669/228804426-482491c5-3197-41b3-88e4-55e5cc029082.png)
